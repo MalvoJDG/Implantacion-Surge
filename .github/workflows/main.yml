@@ -20,4 +20,4 @@ jobs:
           surge token fb74e8e091ab5b24511e4418cf503d9f # Reemplazar <SURGE_API_KEY> con la API Key de Surge de cada estudiante
 
           # Desplegar en Surge.sh
-          surge --project ./ --domain malvin-proyect.surge.sh # Reemplazar <SURGE_SUBDOMAIN> con un subdominio único para cada estudiante
+          surge --project ./ --domain malvin-proyect-123.surge.sh # Reemplazar <SURGE_SUBDOMAIN> con un subdominio único para cada estudiante
